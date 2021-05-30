@@ -1,5 +1,6 @@
-**JAVA & REACT Kampı  - 2. Gün Ödev**
-- Kodlama.io sitesine gidiniz.
-- Özellik nesnesi olarak tanımladığımızı düşündüğünüz iki örnek veriniz.
-- Bunlara ait class, contructor yapılarını oluşturup diziye ekleyip listeleyiniz.
-- İş sınıfı olarak tanımladığımızı düşündüğünüz bir class oluşturunuz. En az iki metot yazınız.
+**JavaReactHW2**
+
+- Go to Kodlama.io website.
+- Give two examples that you think identified as a property object.
+- Create class, contructor structures related to that objects and add to an array to list them.
+- Create a class taht you think is a work class. Write at least two methods.
